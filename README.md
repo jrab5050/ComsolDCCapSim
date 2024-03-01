@@ -1,3 +1,6 @@
+# About
+Here are some simulations that I ran about a charged capacitor to help me learn COMSOL.
+
 Using air gap between plates 
 
 ![alt text](https://github.com/jrab5050/ComsolDCCapSim/blob/main/Result.png?raw=true)
